@@ -1,0 +1,65 @@
+{
+  "status": "passed",
+  "datasets": [
+    {
+      "file": "AMZN.csv",
+      "rows": 251,
+      "columns": [
+        "date",
+        "open",
+        "high",
+        "low",
+        "close",
+        "adj_close",
+        "volume"
+      ],
+      "first_date": "2020-11-09",
+      "last_date": "2021-11-05",
+      "duplicate_dates": 0,
+      "empty_fields": {
+        "date": 0,
+        "open": 0,
+        "high": 0,
+        "low": 0,
+        "close": 0,
+        "adj_close": 0,
+        "volume": 0
+      },
+      "sha256": "24e3ee70a4c9608eef0ada2ae145caab7ac3d821a6a4b5b41e104f75e7b1fda2"
+    },
+    {
+      "file": "Water.csv",
+      "rows": 16436,
+      "columns": [
+        "date",
+        "precipitation",
+        "pet",
+        "temperature",
+        "discharge_spec",
+        "discharge_vol",
+        "peti",
+        "humidity",
+        "shortwave_rad",
+        "longwave_rad",
+        "windspeed"
+      ],
+      "first_date": "1970-10-01",
+      "last_date": "2015-09-30",
+      "duplicate_dates": 0,
+      "empty_fields": {
+        "date": 0,
+        "precipitation": 0,
+        "pet": 0,
+        "temperature": 0,
+        "discharge_spec": 9170,
+        "discharge_vol": 9170,
+        "peti": 0,
+        "humidity": 0,
+        "shortwave_rad": 0,
+        "longwave_rad": 0,
+        "windspeed": 0
+      },
+      "sha256": "b5edde9f212cd4c21321da33f68984ecc2607c5fb87d1c556073431d5c32a684"
+    }
+  ]
+}
