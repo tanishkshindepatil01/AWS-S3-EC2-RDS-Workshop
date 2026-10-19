@@ -788,12 +788,3 @@ document, private keys, credentials and local session history. The included
 `.gitignore` helps prevent common credential files from being committed later;
 keep any new screenshots or local connection settings private until you redact them.
 
-## Upload this folder to GitHub
-
-Unzip the download, create a new GitHub repository, and upload the extracted
-folder's **contents** so this `README.md` is at the repository root. Preserve the
-subfolders so the images and document links work. Follow
-[UPLOAD_TO_GITHUB.md](UPLOAD_TO_GITHUB.md) for all website or Git commands.
-
-Course slides and supplied data retain their original attribution. See
-[SOURCES.md](SOURCES.md) for the course and official technical references.
